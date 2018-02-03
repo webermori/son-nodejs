@@ -1,0 +1,19 @@
+{
+  "name": "son-nodejs",
+  "version": "1.0.0",
+  "description": "son-nodejs",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webermori/son-nodejs.git"
+  },
+  "author": "Weber Mori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webermori/son-nodejs/issues"
+  },
+  "homepage": "https://github.com/webermori/son-nodejs#readme"
+}
