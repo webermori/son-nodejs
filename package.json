@@ -12,6 +12,7 @@
   },
   "author": "Weber Mori",
   "license": "ISC",
+  "private": true,
   "bugs": {
     "url": "https://github.com/webermori/son-nodejs/issues"
   },
